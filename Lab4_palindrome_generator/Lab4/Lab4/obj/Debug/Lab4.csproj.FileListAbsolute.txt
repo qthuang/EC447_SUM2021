@@ -1,0 +1,10 @@
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\GK\alpha\2021 Summer\EC447\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
